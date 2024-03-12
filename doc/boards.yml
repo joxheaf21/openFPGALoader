@@ -576,6 +576,13 @@
   Flash: OK (DFU)
   Constraints: OrangeCrab-r0.2
 
+- ID: ps06
+  Description: Altera FPGA EP4CE6E22C8N Core Board
+  URL: http://piswords.com/ep4ce6e.html
+  FPGA: Cyclone IV EP4CE6E22C8
+  Memory: OK
+  Flash: NT
+
 - ID: papilio_one
   Description: Papilio One
   URL: https://papilio.cc/index.php?n=Papilio.PapilioOne

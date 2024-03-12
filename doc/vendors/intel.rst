@@ -42,7 +42,7 @@ file load:
     # or
     openFPGALoader -b boardname project_name.rbf
 
-with ``boardname`` = ``de0``, ``cyc1000``, ``c10lp-refkit``, ``de0nano``, ``de0nanoSoc`` or ``qmtechCycloneV``.
+with ``boardname`` = ``de0``, ``cyc1000``, ``c10lp-refkit``, ``de0nano``, ``de0nanoSoc``, ``ps06`` or ``qmtechCycloneV``.
 
 SPI flash
 ---------

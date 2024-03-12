@@ -73,6 +73,7 @@ Intel:
 
   - Description: Cyclone IV CE
     Model:
+      - EP4CE6
       - EP4CE22
       - EP4CE115
     URL: https://www.intel.com/content/www/us/en/products/programmable/fpga/cyclone-iv/features.html

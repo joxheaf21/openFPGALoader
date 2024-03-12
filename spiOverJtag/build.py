@@ -172,6 +172,7 @@ else:
         "10cl016484": "10CL016YU484C8G",
         "10cl025256": "10CL025YU256C8G",
         "10cl055484": "10CL055YU484C8G",
+        "ep4ce622"  : "EP4CE6E22C8",
         "ep4ce11523": "EP4CE115F23C7",
         "ep4ce2217" : "EP4CE22F17C6",
         "ep4ce1523" : "EP4CE15F23C8",
